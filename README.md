@@ -17,7 +17,7 @@
 ### Overview
 This project is designed to aid a company's venture into the movie production industry by launching a new studio. Through comprehensive data analysis, the project will identify current trends and provide actionable insights from box office data. This information will guide the company in determining the types of movies that are most successful in today’s market, thereby supporting strategic content creation and maximizing box office returns.
 
-![Alt text](WB.08.58 PM.jpeg)
+![Image_alt](http://localhost:8889/view/WB.08.58%20PM.jpeg)
 
 
 ###  The Problem Statement
@@ -64,13 +64,13 @@ Missing values and duplicated rows are handled. Also, columns irrelevant to the 
 The merged data is analysed by use of visualizations. Sample visualizations include:
 
 a)demographic perfomance analyses how the ratings are perceived locally, internationally and the total outcome.
-![alt text](Rating.09.21 PM.jpeg)
+![Image_alt](http://localhost:8889/view/Rating.09.21%20PM.jpeg)
 
 b) Monthly Release compares the different months earnings.
-![alt text](month.14.07 PM.jpeg)
+![Image_alt](http://localhost:8889/view/month.14.07%20PM.jpeg)
 
 c) Studio production Budgets compares financial input of different studio.
-![alt text](studio.13.39 PM.jpeg)
+![Image_alt](http://localhost:8889/view/studio.13.39%20PM.jpeg)
 
 For more Visualisation follow this Tableau Link = [Interactive Dashboard](https://public.tableau.com/views/FILMANALYSIS_/InteractiveDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
